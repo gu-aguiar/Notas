@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692896893 source:a:\programação\c#\notas\notas\main.c
+	<stdio.h>
+	<stdlib.h>
+
